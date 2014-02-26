@@ -1,13 +1,13 @@
 $(document).ready(function(){ 
-  
-  $('#firstbutton').click(function(){
-    $('#firstheading').css('color', 'hotpink');
-  });
-  
-  $('.secondbutton').click(function(){
-    $('.secondheading').html('Hah! Bunnies are the best.');
-    $('.secondheading').css('color', 'turquoise');
-  });
+ //INSERT CODE HERE
 
-  
+ //QUESTION 1
+
+ //QUESTION 3
+
+ //QUESTION 4
+
+ //QUESTION 5
+
+ //QUESTION 6
 });
